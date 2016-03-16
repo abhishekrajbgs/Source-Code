@@ -57,11 +57,6 @@ int main()
         printf("\n(%f,%f)",x[k],y[k]);
     }
 
-
-
-
-
-
     delay(30000);
     cleardevice();
     closegraph();
